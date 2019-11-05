@@ -1,1 +1,0 @@
-# Bay-Area-Engineering-Study-Club.github.io
