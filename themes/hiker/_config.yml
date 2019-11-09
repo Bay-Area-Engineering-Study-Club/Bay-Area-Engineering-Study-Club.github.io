@@ -6,8 +6,8 @@
 menu:
   Home: /
   Archives: archives
-  Categories: categories
-  Tags: tags
+  # Categories: categories
+  # Tags: tags
   About: about
 rss: /atom.xml
 
@@ -16,7 +16,7 @@ since: 2019
 # Set default keywords (Use a comma to separate)
 keywords: ""
 
-# Put your favicon.ico or avatar.jpg into `hexo-site/themes/hiker/source/` directory.
+# Put your favicon.ico or   avatar.jpg into `hexo-site/themes/hiker/source/` directory.
 avatar:
   enable: true
   border: true
