@@ -33,7 +33,7 @@ home_background_image:
   enable: true
   mode: image
   rolling: true
-  url: [css/images/first-meeting.png, css/images/IMG_1618.jpg, css/images/IMG_1619.jpg, css/images/IMG_1620.jpg]
+  url: [css/images/first-meeting.png, css/images/goldenbridge.jpg, css/images/cablecar.jpg, css/images/building.jpg]
 
 home_logo_image:
   enable: false
