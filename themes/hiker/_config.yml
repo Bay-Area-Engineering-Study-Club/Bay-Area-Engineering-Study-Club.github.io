@@ -33,7 +33,7 @@ home_background_image:
   enable: true
   mode: image
   rolling: true
-  url: [css/images/first-meeting.png, css/images/goldenbridge.jpg, css/images/cablecar.jpg, css/images/building.jpg]
+  url: [css/images/goldenbridge.jpg, css/images/cablecar.jpg, css/images/building.jpg]
 
 home_logo_image:
   enable: false
@@ -42,7 +42,7 @@ home_logo_image:
 
 
 # AboutPage background
-about_big_image: [css/images/pose.jpg, css/images/sample.jpg, https://source.unsplash.com/collection/954550/1920x1080]
+about_big_image: [css/images/firstmeetingcrop.png]
 
 
 # Archive pagination
